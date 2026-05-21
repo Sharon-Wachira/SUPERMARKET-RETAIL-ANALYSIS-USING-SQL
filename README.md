@@ -1,2 +1,4 @@
 # SUPERMARKET-RETAIL-ANALYSIS-USING-SQL
-SUPERMARKET RETAIL ANALYSIS USING SQL. IT HAS 5 TABLES. 
+
+
+A Kenyan retail shop would like to understand the sales performance
